@@ -20,7 +20,7 @@
 	#searchbar{border-top: 1px solid gray;}
 	.sidecard{width: 255px; height: 760px; position: absolute;  top: 250px;  right: 240px;}
 	.cardlist{font-size: 15px;}
-	.contentlist{font-size: 15px; border-bottom:1px solid black; height: 24px;}
+	.contentlist{font-size: 15px; border-bottom:1px solid black; height: 24px; }
 	
 	.input-group>.form-control:focus {
     border-color: #345f53;
