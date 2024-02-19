@@ -11,7 +11,7 @@
 <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css">
 <style type="text/css">
 	.input-group{
-		width: 700px;
+		width: 700px; 
 	}
 	.card-text{height: 70px; border-top: 1px solid gray;}
 	.card-title{font-weight: bold;}
